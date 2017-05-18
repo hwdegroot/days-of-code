@@ -6,6 +6,7 @@
 * commit often/push less
 * add README
 
+* Google
 
 ## Usefule links
 
