@@ -1,3 +1,0 @@
-## View changes
-
-* git diff
